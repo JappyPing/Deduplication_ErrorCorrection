@@ -3,6 +3,7 @@ archive/
 results/de_error_correction/
 results/deduplication/
 results/error_correction/
-methods/deduplication/UMIc
+methods/deduplication/UMIc/
 logs/
-methods/deduplication/
+methods/deduplication/BioSeqZip/build/apps/*log
+methods/deduplication/presto-0.5.2/bin/*log 

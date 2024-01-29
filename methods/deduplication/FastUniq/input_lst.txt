@@ -1,0 +1,2 @@
+/projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq
+/projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq

@@ -1,0 +1,305 @@
+nohup: ignoring input
+
+Process 0/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 1/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 2/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 3/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 4/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 5/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 6/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 7/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 8/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 9/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 10/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 11/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 12/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 13/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 14/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 15/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 16/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 17/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 18/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 19/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 20/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 21/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 22/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 23/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 24/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 25/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 26/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 27/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 28/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 29/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 30/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+Process 31/32: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq -p /projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq -r /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_1.fastq and /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR11207257_2.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 8/32: 1000000 clustered paired reads in 18.57 seconds
+Process 0/32: 1000000 clustered paired reads in 32.74 seconds
+Process 27/32: 1000000 clustered paired reads in 33.32 seconds
+Process 17/32: 1000000 clustered paired reads in 36.01 seconds
+Process 8/32: 2000000 clustered paired reads in 37.72 seconds
+Process 3/32: 1000000 clustered paired reads in 43.89 seconds
+Process 30/32: 1000000 clustered paired reads in 47.76 seconds
+Process 1/32: 1000000 clustered paired reads in 48.21 seconds
+Process 20/32: 1000000 clustered paired reads in 49.57 seconds
+Process 2/32: 1000000 clustered paired reads in 50.26 seconds
+Process 26/32: 1000000 clustered paired reads in 50.37 seconds
+Process 4/32: 1000000 clustered paired reads in 51.06 seconds
+Process 25/32: 1000000 clustered paired reads in 51.17 seconds
+Process 15/32: 1000000 clustered paired reads in 51.84 seconds
+Process 22/32: 1000000 clustered paired reads in 51.88 seconds
+Process 21/32: 1000000 clustered paired reads in 51.88 seconds
+Process 29/32: 1000000 clustered paired reads in 52.44 seconds
+Process 9/32: 1000000 clustered paired reads in 52.99 seconds
+Process 7/32: 1000000 clustered paired reads in 53.08 seconds
+Process 31/32: 1000000 clustered paired reads in 53.14 seconds
+Process 10/32: 1000000 clustered paired reads in 53.34 seconds
+Process 12/32: 1000000 clustered paired reads in 53.57 seconds
+Process 6/32: 1000000 clustered paired reads in 53.64 seconds
+Process 18/32: 1000000 clustered paired reads in 53.72 seconds
+Process 11/32: 1000000 clustered paired reads in 53.98 seconds
+Process 16/32: 1000000 clustered paired reads in 54.08 seconds
+Process 24/32: 1000000 clustered paired reads in 54.69 seconds
+Process 13/32: 1000000 clustered paired reads in 54.86 seconds
+Process 19/32: 1000000 clustered paired reads in 55.31 seconds
+Process 14/32: 1000000 clustered paired reads in 55.59 seconds
+Process 5/32: 1000000 clustered paired reads in 55.94 seconds
+Process 8/32: 3000000 clustered paired reads in 56.32 seconds
+Process 28/32: 1000000 clustered paired reads in 56.48 seconds
+Process 23/32: 1000000 clustered paired reads in 57.68 seconds
+Process 0/32: 2000000 clustered paired reads in 64.10 seconds
+Process 27/32: 2000000 clustered paired reads in 66.50 seconds
+Process 17/32: 2000000 clustered paired reads in 71.72 seconds
+Process 8/32: 4000000 clustered paired reads in 75.31 seconds
+Process 3/32: 2000000 clustered paired reads in 88.15 seconds
+Process 8/32: 5000000 clustered paired reads in 93.71 seconds
+Process 30/32: 2000000 clustered paired reads in 95.54 seconds
+Process 1/32: 2000000 clustered paired reads in 96.68 seconds
+Process 0/32: 3000000 clustered paired reads in 98.31 seconds
+Process 27/32: 3000000 clustered paired reads in 99.16 seconds
+Process 20/32: 2000000 clustered paired reads in 99.45 seconds
+Process 2/32: 2000000 clustered paired reads in 100.48 seconds
+Process 26/32: 2000000 clustered paired reads in 100.81 seconds
+Process 4/32: 2000000 clustered paired reads in 102.26 seconds
+Process 25/32: 2000000 clustered paired reads in 102.42 seconds
+Process 22/32: 2000000 clustered paired reads in 103.77 seconds
+Process 21/32: 2000000 clustered paired reads in 103.87 seconds
+Process 15/32: 2000000 clustered paired reads in 103.95 seconds
+Process 29/32: 2000000 clustered paired reads in 104.91 seconds
+Process 9/32: 2000000 clustered paired reads in 105.92 seconds
+Process 7/32: 2000000 clustered paired reads in 106.24 seconds
+Process 10/32: 2000000 clustered paired reads in 106.46 seconds
+Process 31/32: 2000000 clustered paired reads in 106.53 seconds
+Process 12/32: 2000000 clustered paired reads in 107.00 seconds
+Process 6/32: 2000000 clustered paired reads in 107.45 seconds
+Process 18/32: 2000000 clustered paired reads in 107.47 seconds
+Process 17/32: 3000000 clustered paired reads in 107.65 seconds
+Process 16/32: 2000000 clustered paired reads in 108.29 seconds
+Process 11/32: 2000000 clustered paired reads in 108.40 seconds
+Process 13/32: 2000000 clustered paired reads in 109.11 seconds
+Process 24/32: 2000000 clustered paired reads in 109.77 seconds
+Process 14/32: 2000000 clustered paired reads in 111.19 seconds
+Process 19/32: 2000000 clustered paired reads in 111.22 seconds
+Process 5/32: 2000000 clustered paired reads in 111.89 seconds
+Process 8/32: 6000000 clustered paired reads in 112.11 seconds
+Process 28/32: 2000000 clustered paired reads in 112.95 seconds
+Process 23/32: 2000000 clustered paired reads in 115.70 seconds
+Process 8/32: 7000000 clustered paired reads in 131.00 seconds
+Process 27/32: 4000000 clustered paired reads in 131.82 seconds
+Process 0/32: 4000000 clustered paired reads in 132.32 seconds
+Process 3/32: 3000000 clustered paired reads in 132.33 seconds
+Process 14/32: finished the clustering of 2470769 paired reads in 137.80 seconds
+Process 29/32: finished the clustering of 2620237 paired reads in 137.80 seconds
+Process 4/32: finished the clustering of 2688008 paired reads in 137.80 seconds
+Process 23/32: finished the clustering of 2376467 paired reads in 137.80 seconds
+Process 1/32: finished the clustering of 2834963 paired reads in 137.80 seconds
+Process 7/32: finished the clustering of 2587152 paired reads in 137.80 seconds
+Process 25/32: finished the clustering of 2685558 paired reads in 137.80 seconds
+Process 21/32: finished the clustering of 2646856 paired reads in 137.80 seconds
+Process 10/32: finished the clustering of 2584680 paired reads in 137.80 seconds
+Process 5/32: finished the clustering of 2456980 paired reads in 137.81 seconds
+Process 15/32: finished the clustering of 2653840 paired reads in 137.81 seconds
+Process 2/32: finished the clustering of 2738505 paired reads in 137.81 seconds
+Process 26/32: finished the clustering of 2725213 paired reads in 137.81 seconds
+Process 24/32: finished the clustering of 2507983 paired reads in 137.82 seconds
+Process 28/32: finished the clustering of 2432813 paired reads in 137.82 seconds
+Process 30/32: finished the clustering of 2888182 paired reads in 137.82 seconds
+Process 12/32: finished the clustering of 2568212 paired reads in 137.83 seconds
+Process 16/32: finished the clustering of 2536545 paired reads in 137.83 seconds
+Process 17/32: finished the clustering of 3832616 paired reads in 137.83 seconds
+Process 22/32: finished the clustering of 2657439 paired reads in 137.84 seconds
+Process 9/32: finished the clustering of 2596264 paired reads in 137.87 seconds
+Process 11/32: finished the clustering of 2542775 paired reads in 137.92 seconds
+Process 3/32: finished the clustering of 3126763 paired reads in 137.96 seconds
+Process 27/32: finished the clustering of 4171807 paired reads in 137.99 seconds
+Process 19/32: finished the clustering of 2482859 paired reads in 138.04 seconds
+Process 18/32: finished the clustering of 2565087 paired reads in 138.10 seconds
+Process 0/32: finished the clustering of 4183224 paired reads in 138.18 seconds
+Process 31/32: finished the clustering of 2594033 paired reads in 138.19 seconds
+Process 6/32: finished the clustering of 2573536 paired reads in 138.20 seconds
+Process 13/32: finished the clustering of 2534819 paired reads in 138.29 seconds
+Process 20/32: finished the clustering of 2781969 paired reads in 138.31 seconds
+Process 8/32: finished the clustering of 7411704 paired reads in 139.21 seconds
+Process 23/32: Time to analyze 2376467 paired reads with 1 threads: 152.80 seconds
+Process 5/32: Time to analyze 2456980 paired reads with 1 threads: 153.38 seconds
+Process 21/32: Time to analyze 2646856 paired reads with 1 threads: 154.05 seconds
+Process 28/32: Time to analyze 2432813 paired reads with 1 threads: 154.34 seconds
+Process 7/32: Time to analyze 2587152 paired reads with 1 threads: 154.34 seconds
+Process 14/32: Time to analyze 2470769 paired reads with 1 threads: 155.04 seconds
+Process 10/32: Time to analyze 2584680 paired reads with 1 threads: 156.53 seconds
+Process 19/32: Time to analyze 2482859 paired reads with 1 threads: 157.10 seconds
+Process 31/32: Time to analyze 2594033 paired reads with 1 threads: 157.12 seconds
+Process 15/32: Time to analyze 2653840 paired reads with 1 threads: 157.86 seconds
+Process 18/32: Time to analyze 2565087 paired reads with 1 threads: 158.53 seconds
+Process 11/32: Time to analyze 2542775 paired reads with 1 threads: 158.90 seconds
+Process 20/32: Time to analyze 2781969 paired reads with 1 threads: 160.42 seconds
+Process 24/32: Time to analyze 2507983 paired reads with 1 threads: 163.56 seconds
+Process 25/32: Time to analyze 2685558 paired reads with 1 threads: 166.52 seconds
+Process 6/32: Time to analyze 2573536 paired reads with 1 threads: 168.71 seconds
+Process 9/32: Time to analyze 2596264 paired reads with 1 threads: 176.61 seconds
+Process 4/32: Time to analyze 2688008 paired reads with 1 threads: 178.79 seconds
+Process 30/32: Time to analyze 2888182 paired reads with 1 threads: 180.94 seconds
+Process 29/32: Time to analyze 2620237 paired reads with 1 threads: 182.99 seconds
+Process 26/32: Time to analyze 2725213 paired reads with 1 threads: 183.62 seconds
+Process 16/32: Time to analyze 2536545 paired reads with 1 threads: 185.65 seconds
+Process 13/32: Time to analyze 2534819 paired reads with 1 threads: 194.82 seconds
+Process 22/32: Time to analyze 2657439 paired reads with 1 threads: 220.97 seconds
+Process 2/32: Time to analyze 2738505 paired reads with 1 threads: 263.13 seconds
+Process 12/32: Time to analyze 2568212 paired reads with 1 threads: 283.31 seconds
+Process 17/32: Time to analyze 3832616 paired reads with 1 threads: 314.62 seconds
+Process 1/32: Time to analyze 2834963 paired reads with 1 threads: 884.73 seconds
+Process 3/32: Time to analyze 3126763 paired reads with 1 threads: 931.70 seconds
+Process 27/32: Time to analyze 4171807 paired reads with 1 threads: 3584.28 seconds
+Process 0/32: Time to analyze 4183224 paired reads with 1 threads: 13522.87 seconds
+Process 8/32: Time to analyze 7411704 paired reads with 1 threads: 21849.49 seconds
+Process 31/32: Overall time: 22119.13 seconds
+SUMMARY: Non duplicated paired reads 16903024/93057858 (18.16 %)
+SUMMARY: Min/Max analyzed reads per process: 2376467/7411704 (67.94 % of imbalance)
+SUMMARY: Min/Max runtime per process: 152.80/21849.49 (99.30 % of imbalance)
+Process 29/32: Overall time: 22119.14 seconds
+Process 25/32: Overall time: 22119.14 seconds
+Process 23/32: Overall time: 22119.14 seconds
+Process 19/32: Overall time: 22119.14 seconds
+Process 28/32: Overall time: 22119.14 seconds
+Process 26/32: Overall time: 22119.14 seconds
+Process 4/32: Overall time: 22119.14 seconds
+Process 12/32: Overall time: 22119.14 seconds
+Process 15/32: Overall time: 22119.14 seconds
+Process 1/32: Overall time: 22119.14 seconds
+Process 5/32: Overall time: 22119.14 seconds
+Process 6/32: Overall time: 22119.14 seconds
+Process 9/32: Overall time: 22119.14 seconds
+Process 13/32: Overall time: 22119.14 seconds
+Process 18/32: Overall time: 22119.14 seconds
+Process 21/32: Overall time: 22119.14 seconds
+Process 2/32: Overall time: 22119.14 seconds
+Process 3/32: Overall time: 22119.14 seconds
+Process 8/32: Overall time: 22119.14 seconds
+Process 11/32: Overall time: 22119.14 seconds
+Process 14/32: Overall time: 22119.14 seconds
+Process 16/32: Overall time: 22119.14 seconds
+Process 17/32: Overall time: 22119.14 seconds
+Process 20/32: Overall time: 22119.14 seconds
+Process 22/32: Overall time: 22119.14 seconds
+Process 24/32: Overall time: 22119.14 seconds
+Process 27/32: Overall time: 22119.14 seconds
+Process 30/32: Overall time: 22119.14 seconds
+Process 0/32: Overall time: 22119.14 seconds
+Process 10/32: Overall time: 22119.14 seconds
+Process 7/32: Overall time: 22119.14 seconds

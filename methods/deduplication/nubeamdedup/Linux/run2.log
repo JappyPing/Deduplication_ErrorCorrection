@@ -1,0 +1,7 @@
+nohup: ignoring input
+/projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_1.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR11207257_1.fastq
+7819073/93057858 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv/fastp_no_umi/SRR11207257_2.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR11207257_2.fastq
+7482502/93057858 reads are unique.

@@ -1,0 +1,25 @@
+nohup: ignoring input
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543964.fastq
+312070/1100818 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543965.fastq
+273707/952554 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543966.fastq
+305104/1225804 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543967.fastq
+336566/1404275 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543968.fastq
+277589/1132736 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543969.fastq
+375335/1338638 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543970.fastq
+290058/1219666 reads are unique.
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq
+Output unique reads to /projects/BIOinfo/Jappy/review/result/deduplication/nubeamdedup/SRR1543971.fastq
+182485/746724 reads are unique.

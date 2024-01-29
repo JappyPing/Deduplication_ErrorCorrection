@@ -1,0 +1,15 @@
+- Versions higher than 1.0.5 solve a problem with the output of the paired end experiments when executing with more than one process
+- Versions higher than 1.1.5 solve a problem with the FASTA input files
+- Versions higher than 1.2.5 solve a problem with the accuracy of the paired analyses
+- Version 1.3.5 and posterior include the following improvements:
+  a) The user can specify the output file names
+  b) When two reads in fastq format are collapsed, now the choice of which sequence is kept is not random, the one with the highest average quality is chosen.
+  c) Removed the option to discard bases with low quality
+- Version 2.0.5 and posterior include the following improvements:
+  a) The user can discard only optical duplicates (-d option)
+  b) Support for compressed input/output with -gz extension (-z option)
+- Version 2.1.5 optimizes the removal of only optical duplicates by ordering in the clusters by the X coordinate
+- Version 2.2.5 solves several bugs:
+  a) Error writing the output with several processes
+  b) Incorrect 64bits popcount
+

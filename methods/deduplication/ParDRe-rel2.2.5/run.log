@@ -1,0 +1,1696 @@
+nohup: ignoring input
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq 
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543964.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 1/8: finished the clustering of 4973 reads in 1.71 seconds
+Process 1/8: Time to analyze 4973 reads with 1 threads: 1.71 seconds
+Process 0/8: finished the clustering of 5094 reads in 1.72 seconds
+Process 6/8: finished the clustering of 2403 reads in 1.72 seconds
+Process 0/8: Time to analyze 5094 reads with 1 threads: 1.73 seconds
+Process 6/8: Time to analyze 2403 reads with 1 threads: 1.73 seconds
+Process 3/8: finished the clustering of 4003 reads in 1.74 seconds
+Process 7/8: finished the clustering of 3672 reads in 1.75 seconds
+Process 3/8: Time to analyze 4003 reads with 1 threads: 1.75 seconds
+Process 7/8: Time to analyze 3672 reads with 1 threads: 1.75 seconds
+Process 4/8: finished the clustering of 2160 reads in 1.75 seconds
+Process 4/8: Time to analyze 2160 reads with 1 threads: 1.75 seconds
+Process 5/8: finished the clustering of 3121 reads in 1.75 seconds
+Process 5/8: Time to analyze 3121 reads with 1 threads: 1.76 seconds
+Process 2/8: 1000000 clustered reads in 1.99 seconds
+Process 2/8: finished theProcess 2/8: Time to analyze 1075392 reads wiProcess 2/8: Time to analyze 1075392 reads with 1 threads: 1734.53 seconds
+Process 6/8: Overall time: 1746.21 seconds
+Process 7/8: Overall time: 1746.21 seconds
+Process 2/8: Overall time: 1746.21 seconds
+Process 3/8: Overall time: 1746.21 seconds
+Process 5/8: Overall time: 1746.21 seconds
+SUMMARY: Non duplicated paired reads 312070/1100818 (28.35 %)
+SUMMARY: Min/Max analyzed reads per process: 2160/1075392 (99.80 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.71/1734.53 (99.90 % of imbalance)
+Process 1/8: Overall time: 1746.21 seconds
+Process 4/8: Overall time: 1746.21 seconds
+Process 0/8: Overall time: 1746.21 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543964.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 5/8: finished the clustering of 3121 reads in 1.73 seconds
+Process 5/8: Time to analyze 3121 reads with 1 threads: 1.73 seconds
+Process 6/8: finished the clustering of 2403 reads in 1.73 seconds
+Process 6/8: Time to analyze 2403 reads with 1 threads: 1.74 seconds
+Process 7/8: finished the clustering of 3672 reads in 1.74 seconds
+Process 0/8: finished the clustering of 5094 reads in 1.75 seconds
+Process 7/8: Time to analyze 3672 reads with 1 threads: 1.75 seconds
+Process 1/8: finished the clustering of 4973 reads in 1.75 seconds
+Process 0/8: Time to analyze 5094 reads with 1 threads: 1.75 seconds
+Process 1/8: Time to analyze 4973 reads with 1 threads: 1.76 seconds
+Process 4/8: finished the clustering of 2160 reads in 1.77 seconds
+Process 4/8: Time to analyze 2160 reads with 1 threads: 1.77 seconds
+Process 3/8: finished the clustering of 4003 reads in 1.77 seconds
+Process 3/8: Time to analyze 4003 reads with 1 threads: 1.78 seconds
+Process 2/8: 1000000 clustered reads in 1.99 seconds
+Process 2/8: finished the clustering of 1075392 reads in 2.14 seconds
+Process 2/8: Time to analyze 1075392 reads with 1 threads: 1684.15 seconds
+SUMMARY: Non duplicated paired reads 229011/1100818 (20.80 %)
+SUMMARY: Min/Max analyzed reads per process: 2160/1075392 (99.80 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.73/1684.15 (99.90 % of imbalance)
+Process 0/8: Overall time: 1692.41 seconds
+Process 1/8: Overall time: 1692.41 seconds
+Process 2/8: Overall time: 1692.41 seconds
+Process 3/8: Overall time: 1692.41 seconds
+Process 4/8: Overall time: 1692.41 seconds
+Process 5/8: Overall time: 1692.41 seconds
+Process 6/8: Overall time: 1692.41 seconds
+Process 7/8: Overall time: 1692.41 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543964.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 3/8: finished the clustering of 4003 reads in 1.73 seconds
+Process 5/8: finished the clustering of 3121 reads in 1.73 seconds
+Process 6/8: finished the clustering of 2403 reads in 1.73 seconds
+Process 5/8: Time to analyze 3121 reads with 1 threads: 1.73 seconds
+Process 3/8: Time to analyze 4003 reads with 1 threads: 1.74 seconds
+Process 6/8: Time to analyze 2403 reads with 1 threads: 1.74 seconds
+Process 0/8: finished the clustering of 5094 reads in 1.74 seconds
+Process 4/8: finished the clustering of 2160 reads in 1.75 seconds
+Process 0/8: Time to analyze 5094 reads with 1 threads: 1.75 seconds
+Process 7/8: finished the clustering of 3672 reads in 1.75 seconds
+Process 4/8: Time to analyze 2160 reads with 1 threads: 1.75 seconds
+Process 7/8: Time to analyze 3672 reads with 1 threads: 1.76 seconds
+Process 1/8: finished the clustering of 4973 reads in 1.76 seconds
+Process 1/8: Time to analyze 4973 reads with 1 threads: 1.77 seconds
+Process 2/8: 1000000 clustered reads in 2.13 seconds
+Process 2/8: finished the clustering of 1075392 reads in 2.29 seconds
+Process 2/8: Time to analyze 1075392 reads with 1 threads: 1470.04 seconds
+SUMMARY: Non duplicated paired reads 197629/1100818 (17.95 %)
+SUMMARY: Min/Max analyzed reads per process: 2160/1075392 (99.80 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.73/1470.04 (99.88 % of imbalance)
+Process 0/8: Overall time: 1477.60 seconds
+Process 1/8: Overall time: 1477.60 seconds
+Process 2/8: Overall time: 1477.60 seconds
+Process 3/8: Overall time: 1477.60 seconds
+Process 4/8: Overall time: 1477.60 seconds
+Process 5/8: Overall time: 1477.60 seconds
+Process 6/8: Overall time: 1477.60 seconds
+Process 7/8: Overall time: 1477.60 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543964.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543964.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: finished the clustering of 5094 reads in 1.73 seconds
+Process 0/8: Time to analyze 5094 reads with 1 threads: 1.74 seconds
+Process 1/8: finished the clustering of 4973 reads in 1.74 seconds
+Process 3/8: finished the clustering of 4003 reads in 1.74 seconds
+Process 6/8: finished the clustering of 2403 reads in 1.75 seconds
+Process 7/8: finished the clustering of 3672 reads in 1.75 seconds
+Process 6/8: Time to analyze 2403 reads with 1 threads: 1.75 seconds
+Process 3/8: Time to analyze 4003 reads with 1 threads: 1.75 seconds
+Process 1/8: Time to analyze 4973 reads with 1 threads: 1.76 seconds
+Process 7/8: Time to analyze 3672 reads with 1 threads: 1.76 seconds
+Process 5/8: finished the clustering of 3121 reads in 1.76 seconds
+Process 4/8: finished the clustering of 2160 reads in 1.76 seconds
+Process 4/8: Time to analyze 2160 reads with 1 threads: 1.77 seconds
+Process 5/8: Time to analyze 3121 reads with 1 threads: 1.77 seconds
+Process 2/8: 1000000 clustered reads in 2.11 seconds
+Process 2/8: finished the clustering of 1075392 reads in 2.27 seconds
+Process 2/8: Time to analyze 1075392 reads with 1 threads: 1851.61 seconds
+Process 3/8: Overall time: 1857.50 seconds
+Process 6/8: Overall time: 1857.50 seconds
+Process 7/8: Overall time: 1857.50 seconds
+SUMMARY: Non duplicated paired reads 180695/1100818 (16.41 %)
+SUMMARY: Min/Max analyzed reads per process: 2160/1075392 (99.80 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.74/1851.61 (99.91 % of imbalance)
+Process 1/8: Overall time: 1857.50 seconds
+Process 2/8: Overall time: 1857.50 seconds
+Process 4/8: Overall time: 1857.50 seconds
+Process 5/8: Overall time: 1857.50 seconds
+Process 0/8: Overall time: 1857.50 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq 
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543965.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: finished the clustering of 5672 reads in 1.48 seconds
+Process 1/8: finished the clustering of 3581 reads in 1.48 seconds
+Process 0/8: Time to analyze 5672 reads with 1 threads: 1.48 seconds
+Process 1/8: Time to analyze 3581 reads with 1 threads: 1.49 seconds
+Process 3/8: finished the clustering of 6637 reads in 1.49 seconds
+Process 3/8: Time to analyze 6637 reads with 1 threads: 1.50 seconds
+Process 6/8: finished the clustering of 2094 reads in 1.51 seconds
+Process 6/8: Time to analyze 2094 reads with 1 threads: 1.51 seconds
+Process 5/8: finished the clustering of 3360 reads in 1.53 seconds
+Process 4/8: finished the clustering of 2871 reads in 1.53 seconds
+Process 7/8: finished the clustering of 5666 reads in 1.53 seconds
+Process 5/8: Time to analyze 3360 reads with 1 threads: 1.53 seconds
+Process 4/8: Time to analyze 2871 reads with 1 threads: 1.53 seconds
+Process 7/8: Time to analyze 5666 reads with 1 threads: 1.54 seconds
+Process 2/8: finished the clustering of 922673 reads in 1.90 seconds
+Process 2/8: Time to analyze 922673 reads with 1 threads: 1210.68 seconds
+Process 3/8: Overall time: 1220.51 seconds
+Process 5/8: Overall time: 1220.51 seconds
+Process 7/8: Overall time: 1220.51 seconds
+SUMMARY: Non duplicated paired reads 273707/952554 (28.73 %)
+SUMMARY: Min/Max analyzed reads per process: 2094/922673 (99.77 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.48/1210.68 (99.88 % of imbalance)
+Process 1/8: Overall time: 1220.51 seconds
+Process 2/8: Overall time: 1220.51 seconds
+Process 4/8: Overall time: 1220.51 seconds
+Process 6/8: Overall time: 1220.51 seconds
+Process 0/8: Overall time: 1220.51 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543965.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 4/8: finished the clustering of 2871 reads in 1.48 seconds
+Process 4/8: Time to analyze 2871 reads with 1 threads: 1.48 seconds
+Process 7/8: finished the clustering of 5666 reads in 1.49 seconds
+Process 7/8: Time to analyze 5666 reads with 1 threads: 1.49 seconds
+Process 0/8: finished the clustering of 5672 reads in 1.50 seconds
+Process 3/8: finished the clustering of 6637 reads in 1.50 seconds
+Process 0/8: Time to analyze 5672 reads with 1 threads: 1.51 seconds
+Process 3/8: Time to analyze 6637 reads with 1 threads: 1.51 seconds
+Process 5/8: finished the clustering of 3360 reads in 1.54 seconds
+Process 6/8: finished the clustering of 2094 reads in 1.53 seconds
+Process 1/8: finished the clustering of 3581 reads in 1.54 seconds
+Process 5/8: Time to analyze 3360 reads with 1 threads: 1.54 seconds
+Process 6/8: Time to analyze 2094 reads with 1 threads: 1.54 seconds
+Process 1/8: Time to analyze 3581 reads with 1 threads: 1.54 seconds
+Process 2/8: finished the clustering of 922673 reads in 1.96 seconds
+Process 2/8: Time to analyze 922673 reads with 1 threads: 1210.84 seconds
+Process 3/8: Overall time: 1217.85 seconds
+Process 7/8: Overall time: 1217.85 seconds
+Process 5/8: Overall time: 1217.85 seconds
+Process 6/8: Overall time: 1217.85 seconds
+Process 4/8: Overall time: 1217.85 seconds
+Process 1/8: Overall time: 1217.85 seconds
+Process 2/8: Overall time: 1217.85 seconds
+SUMMARY: Non duplicated paired reads 201155/952554 (21.12 %)
+SUMMARY: Min/Max analyzed reads per process: 2094/922673 (99.77 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.48/1210.84 (99.88 % of imbalance)
+Process 0/8: Overall time: 1217.85 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543965.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 4/8: finished the clustering of 2871 reads in 1.50 seconds
+Process 6/8: finished the clustering of 2094 reads in 1.50 seconds
+Process 6/8: Time to analyze 2094 reads with 1 threads: 1.50 seconds
+Process 4/8: Time to analyze 2871 reads with 1 threads: 1.50 seconds
+Process 7/8: finished the clustering of 5666 reads in 1.51 seconds
+Process 1/8: finished the clustering of 3581 reads in 1.52 seconds
+Process 5/8: finished the clustering of 3360 reads in 1.52 seconds
+Process 1/8: Time to analyze 3581 reads with 1 threads: 1.52 seconds
+Process 7/8: Time to analyze 5666 reads with 1 threads: 1.52 seconds
+Process 5/8: Time to analyze 3360 reads with 1 threads: 1.52 seconds
+Process 3/8: finished the clustering of 6637 reads in 1.53 seconds
+Process 0/8: finished the clustering of 5672 reads in 1.53 seconds
+Process 0/8: Time to analyze 5672 reads with 1 threads: 1.54 seconds
+Process 3/8: Time to analyze 6637 reads with 1 threads: 1.54 seconds
+Process 2/8: finished the clustering of 922673 reads in 2.00 seconds
+Process 2/8: Time to analyze 922673 reads with 1 threads: 1044.26 seconds
+Process 1/8: Overall time: 1050.23 seconds
+Process 5/8: Overall time: 1050.23 seconds
+Process 7/8: Overall time: 1050.23 seconds
+SUMMARY: Non duplicated paired reads 174111/952554 (18.28 %)
+SUMMARY: Min/Max analyzed reads per process: 2094/922673 (99.77 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.50/1044.26 (99.86 % of imbalance)
+Process 2/8: Overall time: 1050.23 seconds
+Process 3/8: Overall time: 1050.23 seconds
+Process 4/8: Overall time: 1050.23 seconds
+Process 6/8: Overall time: 1050.23 seconds
+Process 0/8: Overall time: 1050.23 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543965.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543965.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 5/8: finished the clustering of 3360 reads in 1.46 seconds
+Process 5/8: Time to analyze 3360 reads with 1 threads: 1.47 seconds
+Process 4/8: finished the clustering of 2871 reads in 1.47 seconds
+Process 4/8: Time to analyze 2871 reads with 1 threads: 1.48 seconds
+Process 7/8: finished the clustering of 5666 reads in 1.49 seconds
+Process 7/8: Time to analyze 5666 reads with 1 threads: 1.50 seconds
+Process 0/8: finished the clustering of 5672 reads in 1.51 seconds
+Process 1/8: finished the clustering of 3581 reads in 1.51 seconds
+Process 3/8: finished the clustering of 6637 reads in 1.51 seconds
+Process 6/8: finished the clustering of 2094 reads in 1.52 seconds
+Process 1/8: Time to analyze 3581 reads with 1 threads: 1.52 seconds
+Process 6/8: Time to analyze 2094 reads with 1 threads: 1.52 seconds
+Process 0/8: Time to analyze 5672 reads with 1 threads: 1.52 seconds
+Process 3/8: Time to analyze 6637 reads with 1 threads: 1.53 seconds
+Process 2/8: finished the clustering of 922673 reads in 2.00 seconds
+Process 2/8: Time to analyze 922673 reads with 1 threads: 1116.06 seconds
+SUMMARY: Non duplicated paired reads 160366/952554 (16.84 %)
+SUMMARY: Min/Max analyzed reads per process: 2094/922673 (99.77 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.47/1116.06 (99.87 % of imbalance)
+Process 0/8: Overall time: 1121.75 seconds
+Process 1/8: Overall time: 1121.75 seconds
+Process 2/8: Overall time: 1121.75 seconds
+Process 3/8: Overall time: 1121.75 seconds
+Process 4/8: Overall time: 1121.75 seconds
+Process 5/8: Overall time: 1121.75 seconds
+Process 6/8: Overall time: 1121.75 seconds
+Process 7/8: Overall time: 1121.75 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543966.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 578 reads in 1.92 seconds
+Process 6/8: Time to analyze 578 reads with 1 threads: 1.92 seconds
+Process 0/8: finished the clustering of 5496 reads in 1.92 seconds
+Process 4/8: finished the clustering of 5787 reads in 1.92 seconds
+Process 0/8: Time to analyze 5496 reads with 1 threads: 1.93 seconds
+Process 4/8: Time to analyze 5787 reads with 1 threads: 1.93 seconds
+Process 3/8: finished the clustering of 6401 reads in 1.95 seconds
+Process 5/8: finished the clustering of 23640 reads in 1.95 seconds
+Process 7/8: finished the clustering of 23768 reads in 1.95 seconds
+Process 3/8: Time to analyze 6401 reads with 1 threads: 1.95 seconds
+Process 1/8: finished the clustering of 2557 reads in 1.96 seconds
+Process 1/8: Time to analyze 2557 reads with 1 threads: 1.96 seconds
+Process 7/8: Time to analyze 23768 reads with 1 threads: 2.08 seconds
+Process 5/8: Time to analyze 23640 reads with 1 threads: 2.14 seconds
+Process 2/8: 1000000 clustered reads in 2.20 seconds
+Process 2/8: finished the clustering of 1157577 reads in 2.55 seconds
+Process 2/8: Time to analyze 1157577 reads with 1 threads: 2193.08 seconds
+Process 4/8: Overall time: 2204.63 seconds
+Process 5/8: Overall time: 2204.63 seconds
+Process 6/8: Overall time: 2204.63 seconds
+Process 7/8: Overall time: 2204.63 seconds
+Process 2/8: Overall time: 2204.63 seconds
+Process 3/8: Overall time: 2204.63 seconds
+Process 1/8: Overall time: 2204.63 seconds
+SUMMARY: Non duplicated paired reads 305104/1225804 (24.89 %)
+SUMMARY: Min/Max analyzed reads per process: 578/1157577 (99.95 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.92/2193.08 (99.91 % of imbalance)
+Process 0/8: Overall time: 2204.63 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543966.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 578 reads in 1.91 seconds
+Process 6/8: Time to analyze 578 reads with 1 threads: 1.91 seconds
+Process 3/8: finished the clustering of 6401 reads in 1.92 seconds
+Process 1/8: finished the clustering of 2557 reads in 1.92 seconds
+Process 4/8: finished the clustering of 5787 reads in 1.92 seconds
+Process 0/8: finished the clustering of 5496 reads in 1.92 seconds
+Process 1/8: Time to analyze 2557 reads with 1 threads: 1.93 seconds
+Process 3/8: Time to analyze 6401 reads with 1 threads: 1.93 seconds
+Process 0/8: Time to analyze 5496 reads with 1 threads: 1.93 seconds
+Process 4/8: Time to analyze 5787 reads with 1 threads: 1.94 seconds
+Process 5/8: finished the clustering of 23640 reads in 1.94 seconds
+Process 7/8: finished the clustering of 23768 reads in 1.95 seconds
+Process 7/8: Time to analyze 23768 reads with 1 threads: 2.07 seconds
+Process 5/8: Time to analyze 23640 reads with 1 threads: 2.07 seconds
+Process 2/8: 1000000 clustered reads in 2.11 seconds
+Process 2/8: finished the clustering of 1157577 reads in 2.45 seconds
+Process 2/8: Time to analyze 1157577 reads with 1 threads: 1569.80 seconds
+Process 3/8: Overall time: 1579.80 seconds
+Process 5/8: Overall time: 1579.80 seconds
+Process 7/8: Overall time: 1579.80 seconds
+SUMMARY: Non duplicated paired reads 225727/1225804 (18.41 %)
+SUMMARY: Min/Max analyzed reads per process: 578/1157577 (99.95 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.91/1569.80 (99.88 % of imbalance)
+Process 1/8: Overall time: 1579.80 seconds
+Process 2/8: Overall time: 1579.80 seconds
+Process 4/8: Overall time: 1579.80 seconds
+Process 6/8: Overall time: 1579.80 seconds
+Process 0/8: Overall time: 1579.80 seconds
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq 
+
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq 
+Process 0/8: Initialized
+Command: Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq 
+
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543966.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 5/8: finished the clustering of 23640 reads in 1.91 seconds
+Process 4/8: finished the clustering of 5787 reads in 1.94 seconds
+Process 0/8: finished the clustering of 5496 reads in 1.95 seconds
+Process 3/8: finished the clustering of 6401 reads in 1.95 seconds
+Process 0/8: Time to analyze 5496 reads with 1 threads: 1.96 seconds
+Process 7/8: finished the clustering of 23768 reads in 1.96 seconds
+Process 6/8: finished the clustering of 578 reads in 1.96 seconds
+Process 1/8: finished the clustering of 2557 reads in 1.96 seconds
+Process 4/8: Time to analyze 5787 reads with 1 threads: 1.96 seconds
+Process 6/8: Time to analyze 578 reads with 1 threads: 1.96 seconds
+Process 3/8: Time to analyze 6401 reads with 1 threads: 1.96 seconds
+Process 1/8: Time to analyze 2557 reads with 1 threads: 1.96 seconds
+Process 5/8: Time to analyze 23640 reads with 1 threads: 2.03 seconds
+Process 7/8: Time to analyze 23768 reads with 1 threads: 2.09 seconds
+Process 2/8: 1000000 clustered reads in 2.25 seconds
+Process 2/8: finished the clustering of 1157577 reads in 2.60 seconds
+Process 2/8: Time to analyze 1157577 reads with 1 threads: 1972.17 seconds
+Process 1/8: Overall time: 1979.72 seconds
+Process 7/8: Overall time: 1979.72 seconds
+SUMMARY: Non duplicated paired reads 196468/1225804 (16.03 %)
+SUMMARY: Min/Max analyzed reads per process: 578/1157577 (99.95 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.96/1972.17 (99.90 % of imbalance)
+Process 2/8: Overall time: 1979.72 seconds
+Process 3/8: Overall time: 1979.72 seconds
+Process 4/8: Overall time: 1979.72 seconds
+Process 5/8: Overall time: 1979.72 seconds
+Process 6/8: Overall time: 1979.72 seconds
+Process 0/8: Overall time: 1979.72 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543966.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543966.fastq
+Process 7/8: finished the clustering of 23768 reads in 1.93 seconds
+Process 4/8: finished the clustering of 5787 reads in 1.93 seconds
+Process 1/8: finished the clustering of 2557 reads in 1.93 seconds
+Process 6/8: finished the clustering of 578 reads in 1.93 seconds
+Process 6/8: Time to analyze 578 reads with 1 threads: 1.93 seconds
+Process 1/8: Time to analyze 2557 reads with 1 threads: 1.94 seconds
+Process 0/8: finished the clustering of 5496 reads in 1.94 seconds
+Process 4/8: Time to analyze 5787 reads with 1 threads: 1.95 seconds
+Process 3/8: finished the clustering of 6401 reads in 1.95 seconds
+Process 5/8: finished the clustering of 23640 reads in 1.95 seconds
+Process 0/8: Time to analyze 5496 reads with 1 threads: 1.95 seconds
+Process 3/8: Time to analyze 6401 reads with 1 threads: 1.96 seconds
+Process 5/8: Time to analyze 23640 reads with 1 threads: 2.06 seconds
+Process 7/8: Time to analyze 23768 reads with 1 threads: 2.07 seconds
+Process 2/8: 1000000 clustered reads in 2.12 seconds
+Process 2/8: finished the clustering of 1157577 reads in 2.46 seconds
+Process 2/8: Time to analyze 1157577 reads with 1 threads: 1436.62 seconds
+Process 1/8: Overall time: 1443.55 seconds
+Process 2/8: Overall time: 1443.55 seconds
+Process 3/8: Overall time: 1443.55 seconds
+Process 4/8: Overall time: 1443.55 seconds
+Process 5/8: Overall time: 1443.55 seconds
+Process 6/8: Overall time: 1443.55 seconds
+Process 7/8: Overall time: 1443.55 seconds
+SUMMARY: Non duplicated paired reads 180785/1225804 (14.75 %)
+SUMMARY: Min/Max analyzed reads per process: 578/1157577 (99.95 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.93/1436.62 (99.87 % of imbalance)
+Process 0/8: Overall time: 1443.55 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543967.fastq
+FASTQ format identified
+Process 6/8: finished the clustering of 6608 reads in 2.15 seconds
+Process 1/8: finished the clustering of 7349 reads in 2.16 seconds
+Process 6/8: Time to analyze 6608 reads with 1 threads: 2.16 seconds
+Process 7/8: finished the clustering of 11679 reads in 2.17 seconds
+Process 1/8: Time to analyze 7349 reads with 1 threads: 2.17 seconds
+Process 4/8: finished the clustering of 13908 reads in 2.18 seconds
+Process 7/8: Time to analyze 11679 reads with 1 threads: 2.18 seconds
+Process 3/8: finished the clustering of 12996 reads in 2.19 seconds
+Process 3/8: Time to analyze 12996 reads with 1 threads: 2.20 seconds
+Process 4/8: Time to analyze 13908 reads with 1 threads: 2.21 seconds
+Process 2/8: 1000000 clustered reads in 2.24 seconds
+Process 0/8: finished the clustering of 8466 reads in 2.27 seconds
+Process 0/8: Time to analyze 8466 reads with 1 threads: 2.28 seconds
+Process 5/8: finished the clustering of 46752 reads in 2.29 seconds
+Process 2/8: finished the clustering of 1296517 reads in 2.91 seconds
+Process 5/8: Time to analyze 46752 reads with 1 threads: 3.06 seconds
+Process 2/8: Time to analyze 1296517 reads with 1 threads: 2927.20 seconds
+Process 3/8: Overall time: 2938.83 seconds
+Process 7/8: Overall time: 2938.83 seconds
+SUMMARY: Non duplicated paired reads 336566/1404275 (23.97 %)
+SUMMARY: Min/Max analyzed reads per process: 6608/1296517 (99.49 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.16/2927.20 (99.93 % of imbalance)
+Process 1/8: Overall time: 2938.83 seconds
+Process 4/8: Overall time: 2938.83 seconds
+Process 5/8: Overall time: 2938.83 seconds
+Process 6/8: Overall time: 2938.83 seconds
+Process 0/8: Overall time: 2938.83 seconds
+Process 2/8: Overall time: 2938.83 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543967.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 1/8: finished the clustering of 7349 reads in 2.16 seconds
+Process 0/8: finished the clustering of 8466 reads in 2.16 seconds
+Process 1/8: Time to analyze 7349 reads with 1 threads: 2.17 seconds
+Process 0/8: Time to analyze 8466 reads with 1 threads: 2.17 seconds
+Process 7/8: finished the clustering of 11679 reads in 2.17 seconds
+Process 7/8: Time to analyze 11679 reads with 1 threads: 2.19 seconds
+Process 5/8: finished the clustering of 46752 reads in 2.20 seconds
+Process 2/8: 1000000 clustered reads in 2.25 seconds
+Process 4/8: finished the clustering of 13908 reads in 2.25 seconds
+Process 6/8: finished the clustering of 6608 reads in 2.26 seconds
+Process 3/8: finished the clustering of 12996 reads in 2.26 seconds
+Process 6/8: Time to analyze 6608 reads with 1 threads: 2.27 seconds
+Process 4/8: Time to analyze 13908 reads with 1 threads: 2.27 seconds
+Process 3/8: Time to analyze 12996 reads with 1 threads: 2.28 seconds
+Process 5/8: Time to analyze 46752 reads with 1 threads: 2.76 seconds
+Process 2/8: finished the clustering of 1296517 reads in 2.90 seconds
+Process 2/8: Time to analyze 1296517 reads with 1 threads: 2619.84 seconds
+Process 5/8: Overall time: 2629.29 seconds
+Process 7/8: Overall time: 2629.29 seconds
+SUMMARY: Non duplicated paired reads 244839/1404275 (17.44 %)
+SUMMARY: Min/Max analyzed reads per process: 6608/1296517 (99.49 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.17/2619.84 (99.92 % of imbalance)
+Process 1/8: Overall time: 2629.29 seconds
+Process 2/8: Overall time: 2629.29 seconds
+Process 3/8: Overall time: 2629.29 seconds
+Process 6/8: Overall time: 2629.29 seconds
+Process 0/8: Overall time: 2629.29 seconds
+Process 4/8: Overall time: 2629.29 seconds
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq 
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543967.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 4/8: finished the clustering of 13908 reads in 2.17 seconds
+Process 1/8: finished the clustering of 7349 reads in 2.17 seconds
+Process 1/8: Time to analyze 7349 reads with 1 threads: 2.19 seconds
+Process 4/8: Time to analyze 13908 reads with 1 threads: 2.20 seconds
+Process 2/8: 1000000 clustered reads in 2.23 seconds
+Process 0/8: finished the clustering of 8466 reads in 2.25 seconds
+Process 6/8: finished the clustering of 6608 reads in 2.25 seconds
+Process 3/8: finished the clustering of 12996 reads in 2.25 seconds
+Process 7/8: finished the clustering of 11679 reads in 2.25 seconds
+Process 0/8: Time to analyze 8466 reads with 1 threads: 2.26 seconds
+Process 6/8: Time to analyze 6608 reads with 1 threads: 2.26 seconds
+Process 3/8: Time to analyze 12996 reads with 1 threads: 2.27 seconds
+Process 7/8: Time to analyze 11679 reads with 1 threads: 2.27 seconds
+Process 5/8: finished the clustering of 46752 reads in 2.28 seconds
+Process 5/8: Time to analyze 46752 reads with 1 threads: 2.81 seconds
+Process 2/8: finished the clustering of 1296517 reads in 2.90 seconds
+Process 2/8: Time to analyze 1296517 reads with 1 threads: 2124.84 seconds
+Process 5/8: Overall time: 2132.81 seconds
+Process 7/8: Overall time: 2132.81 seconds
+Process 1/8: Overall time: 2132.81 seconds
+Process 3/8: Overall time: 2132.81 seconds
+Process 4/8: Overall time: 2132.81 seconds
+Process 6/8: Overall time: 2132.81 seconds
+SUMMARY: Non duplicated paired reads 212383/1404275 (15.12 %)
+SUMMARY: Min/Max analyzed reads per process: 6608/1296517 (99.49 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.19/2124.84 (99.90 % of imbalance)
+Process 0/8: Overall time: 2132.81 seconds
+Process 2/8: Overall time: 2132.81 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543967.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543967.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: finished the clustering of 8466 reads in 2.20 seconds
+Process 6/8: finished the clustering of 6608 reads in 2.21 seconds
+Process 7/8: finished the clustering of 11679 reads in 2.21 seconds
+Process 3/8: finished the clustering of 12996 reads in 2.21 seconds
+Process 0/8: Time to analyze 8466 reads with 1 threads: 2.21 seconds
+Process 6/8: Time to analyze 6608 reads with 1 threads: 2.22 seconds
+Process 4/8: finished the clustering of 13908 reads in 2.23 seconds
+Process 5/8: finished the clustering of 46752 reads in 2.23 seconds
+Process 1/8: finished the clustering of 7349 reads in 2.22 seconds
+Process 7/8: Time to analyze 11679 reads with 1 threads: 2.23 seconds
+Process 3/8: Time to analyze 12996 reads with 1 threads: 2.23 seconds
+Process 1/8: Time to analyze 7349 reads with 1 threads: 2.23 seconds
+Process 2/8: 1000000 clustered reads in 2.26 seconds
+Process 4/8: Time to analyze 13908 reads with 1 threads: 2.26 seconds
+Process 5/8: Time to analyze 46752 reads with 1 threads: 2.76 seconds
+Process 2/8: finished the clustering of 1296517 reads in 2.92 seconds
+Process 2/8: Time to analyze 1296517 reads with 1 threads: 1673.57 seconds
+SUMMARY: Non duplicated paired reads 195150/1404275 (13.90 %)
+SUMMARY: Min/Max analyzed reads per process: 6608/1296517 (99.49 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.21/1673.57 (99.87 % of imbalance)
+Process 0/8: Overall time: 1680.79 seconds
+Process 1/8: Overall time: 1680.79 seconds
+Process 2/8: Overall time: 1680.79 seconds
+Process 3/8: Overall time: 1680.79 seconds
+Process 4/8: Overall time: 1680.79 seconds
+Process 5/8: Overall time: 1680.79 seconds
+Process 6/8: Overall time: 1680.79 seconds
+Process 7/8: Overall time: 1680.79 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543968.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 1/8: finished the clustering of 2848 reads in 1.77 seconds
+Process 1/8: Time to analyze 2848 reads with 1 threads: 1.77 seconds
+Process 0/8: finished the clustering of 6831 reads in 1.78 seconds
+Process 5/8: finished the clustering of 17514 reads in 1.78 seconds
+Process 7/8: finished the clustering of 10409 reads in 1.78 seconds
+Process 3/8: finished the clustering of 8210 reads in 1.79 seconds
+Process 0/8: Time to analyze 6831 reads with 1 threads: 1.79 seconds
+Process 6/8: finished the clustering of 1518 reads in 1.79 seconds
+Process 6/8: Time to analyze 1518 reads with 1 threads: 1.79 seconds
+Process 3/8: Time to analyze 8210 reads with 1 threads: 1.81 seconds
+Process 7/8: Time to analyze 10409 reads with 1 threads: 1.81 seconds
+Process 4/8: finished the clustering of 8729 reads in 1.82 seconds
+Process 4/8: Time to analyze 8729 reads with 1 threads: 1.85 seconds
+Process 5/8: Time to analyze 17514 reads with 1 threads: 1.88 seconds
+Process 2/8: 1000000 clustered reads in 2.17 seconds
+Process 2/8: finished the clustering of 1076677 reads in 2.35 seconds
+Process 2/8: Time to analyze 1076677 reads with 1 threads: 1343.84 seconds
+SUMMARY: Non duplicated paired reads 277589/1132736 (24.51 %)
+SUMMARY: Min/Max analyzed reads per process: 1518/1076677 (99.86 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.77/1343.84 (99.87 % of imbalance)
+Process 0/8: Overall time: 1353.14 seconds
+Process 1/8: Overall time: 1353.14 seconds
+Process 2/8: Overall time: 1353.14 seconds
+Process 3/8: Overall time: 1353.14 seconds
+Process 4/8: Overall time: 1353.14 seconds
+Process 5/8: Overall time: 1353.14 seconds
+Process 6/8: Overall time: 1353.14 seconds
+Process 7/8: Overall time: 1353.14 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543968.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: finished the clustering of 6831 reads in 1.77 seconds
+Process 3/8: finished the clustering of 8210 reads in 1.77 seconds
+Process 0/8: Time to analyze 6831 reads with 1 threads: 1.78 seconds
+Process 1/8: finished the clustering of 2848 reads in 1.79 seconds
+Process 1/8: Time to analyze 2848 reads with 1 threads: 1.80 seconds
+Process 3/8: Time to analyze 8210 reads with 1 threads: 1.80 seconds
+Process 6/8: finished the clustering of 1518 reads in 1.80 seconds
+Process 7/8: finished the clustering of 10409 reads in 1.80 seconds
+Process 6/8: Time to analyze 1518 reads with 1 threads: 1.80 seconds
+Process 4/8: finished the clustering of 8729 reads in 1.81 seconds
+Process 5/8: finished the clustering of 17514 reads in 1.81 seconds
+Process 7/8: Time to analyze 10409 reads with 1 threads: 1.84 seconds
+Process 4/8: Time to analyze 8729 reads with 1 threads: 1.84 seconds
+Process 5/8: Time to analyze 17514 reads with 1 threads: 1.89 seconds
+Process 2/8: 1000000 clustered reads in 2.17 seconds
+Process 2/8: finished the clustering of 1076677 reads in 2.34 seconds
+Process 2/8: Time to analyze 1076677 reads with 1 threads: 1743.73 seconds
+Process 7/8: Overall time: 1751.50 seconds
+Process 3/8: Overall time: 1751.50 seconds
+Process 4/8: Overall time: 1751.50 seconds
+Process 5/8: Overall time: 1751.50 seconds
+Process 6/8: Overall time: 1751.50 seconds
+SUMMARY: Non duplicated paired reads 198677/1132736 (17.54 %)
+SUMMARY: Min/Max analyzed reads per process: 1518/1076677 (99.86 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.78/1743.73 (99.90 % of imbalance)
+Process 0/8: Overall time: 1751.50 seconds
+Process 1/8: Overall time: 1751.50 seconds
+Process 2/8: Overall time: 1751.50 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543968.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 5/8: finished the clustering of 17514 reads in 1.78 seconds
+Process 6/8: finished the clustering of 1518 reads in 1.79 seconds
+Process 1/8: finished the clustering of 2848 reads in 1.79 seconds
+Process 6/8: Time to analyze 1518 reads with 1 threads: 1.79 seconds
+Process 0/8: finished the clustering of 6831 reads in 1.79 seconds
+Process 1/8: Time to analyze 2848 reads with 1 threads: 1.79 seconds
+Process 4/8: finished the clustering of 8729 reads in 1.79 seconds
+Process 0/8: Time to analyze 6831 reads with 1 threads: 1.80 seconds
+Process 3/8: finished the clustering of 8210 reads in 1.80 seconds
+Process 7/8: finished the clustering of 10409 reads in 1.82 seconds
+Process 4/8: Time to analyze 8729 reads with 1 threads: 1.83 seconds
+Process 3/8: Time to analyze 8210 reads with 1 threads: 1.83 seconds
+Process 5/8: Time to analyze 17514 reads with 1 threads: 1.86 seconds
+Process 7/8: Time to analyze 10409 reads with 1 threads: 1.86 seconds
+Process 2/8: 1000000 clustered reads in 2.23 seconds
+Process 2/8: finished the clustering of 1076677 reads in 2.40 seconds
+Process 2/8: Time to analyze 1076677 reads with 1 threads: 1135.56 seconds
+SUMMARY: Non duplicated paired reads 169718/1132736 (14.98 %)
+SUMMARY: Min/Max analyzed reads per process: 1518/1076677 (99.86 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.79/1135.56 (99.84 % of imbalance)
+Process 0/8: Overall time: 1141.70 seconds
+Process 1/8: Overall time: 1141.70 seconds
+Process 2/8: Overall time: 1141.70 seconds
+Process 3/8: Overall time: 1141.70 seconds
+Process 4/8: Overall time: 1141.70 seconds
+Process 5/8: Overall time: 1141.70 seconds
+Process 6/8: Overall time: 1141.70 seconds
+Process 7/8: Overall time: 1141.70 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543968.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543968.fastq
+FASTQ format identified
+Process 5/8: finished the clustering of 17514 reads in 1.79 seconds
+Process 6/8: finished the clustering of 1518 reads in 1.79 seconds
+Process 6/8: Time to analyze 1518 reads with 1 threads: 1.80 seconds
+Process 4/8: finished the clustering of 8729 reads in 1.80 seconds
+Process 3/8: finished the clustering of 8210 reads in 1.82 seconds
+Process 7/8: finished the clustering of 10409 reads in 1.82 seconds
+Process 1/8: finished the clustering of 2848 reads in 1.82 seconds
+Process 0/8: finished the clustering of 6831 reads in 1.82 seconds
+Process 1/8: Time to analyze 2848 reads with 1 threads: 1.83 seconds
+Process 4/8: Time to analyze 8729 reads with 1 threads: 1.83 seconds
+Process 0/8: Time to analyze 6831 reads with 1 threads: 1.83 seconds
+Process 3/8: Time to analyze 8210 reads with 1 threads: 1.85 seconds
+Process 7/8: Time to analyze 10409 reads with 1 threads: 1.86 seconds
+Process 5/8: Time to analyze 17514 reads with 1 threads: 1.88 seconds
+Process 2/8: 1000000 clustered reads in 2.20 seconds
+Process 2/8: finished the clustering of 1076677 reads in 2.38 seconds
+Process 2/8: Time to analyze 1076677 reads with 1 threads: 1593.37 seconds
+SUMMARY: Non duplicated paired reads 153986/1132736 (13.59 %)
+SUMMARY: Min/Max analyzed reads per process: 1518/1076677 (99.86 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.80/1593.37 (99.89 % of imbalance)
+Process 0/8: Overall time: 1600.35 seconds
+Process 1/8: Overall time: 1600.35 seconds
+Process 2/8: Overall time: 1600.35 seconds
+Process 3/8: Overall time: 1600.35 seconds
+Process 4/8: Overall time: 1600.35 seconds
+Process 5/8: Overall time: 1600.35 seconds
+Process 6/8: Overall time: 1600.35 seconds
+Process 7/8: Overall time: 1600.35 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543969.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 4702 reads in 2.08 seconds
+Process 6/8: Time to analyze 4702 reads with 1 threads: 2.09 seconds
+Process 7/8: finished the clustering of 5812 reads in 2.09 seconds
+Process 3/8: finished the clustering of 6747 reads in 2.09 seconds
+Process 7/8: Time to analyze 5812 reads with 1 threads: 2.10 seconds
+Process 0/8: finished the clustering of 5942 reads in 2.10 seconds
+Process 3/8: Time to analyze 6747 reads with 1 threads: 2.10 seconds
+Process 0/8: Time to analyze 5942 reads with 1 threads: 2.10 seconds
+Process 4/8: finished the clustering of 5128 reads in 2.12 seconds
+Process 1/8: finished the clustering of 5331 reads in 2.12 seconds
+Process 5/8: finished the clustering of 69527 reads in 2.13 seconds
+Process 4/8: Time to analyze 5128 reads with 1 threads: 2.13 seconds
+Process 1/8: Time to analyze 5331 reads with 1 threads: 2.13 seconds
+Process 2/8: 1000000 clustered reads in 2.26 seconds
+Process 2/8: finished the clustering of 1235449 reads in 2.77 seconds
+Process 5/8: Time to analyze 69527 reads with 1 threads: 4.73 seconds
+Process 2/8: Time to analyze 1235449 reads with 1 threads: 2085.41 seconds
+SUMMARY: Non duplicated paired reads 375335/1338638 (28.04 %)
+SUMMARY: Min/Max analyzed reads per process: 4702/1235449 (99.62 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.09/2085.41 (99.90 % of imbalance)
+Process 0/8: Overall time: 2100.26 seconds
+Process 1/8: Overall time: 2100.26 seconds
+Process 2/8: Overall time: 2100.26 seconds
+Process 3/8: Overall time: 2100.26 seconds
+Process 4/8: Overall time: 2100.26 seconds
+Process 5/8: Overall time: 2100.26 seconds
+Process 6/8: Overall time: 2100.26 seconds
+Process 7/8: Overall time: 2100.26 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543969.fastq
+FASTQ format identified
+FASTQ format identified
+Process 7/8: finished the clustering of 5812 reads in 2.11 seconds
+Process 6/8: finished the clustering of 4702 reads in 2.11 seconds
+Process 0/8: finished the clustering of 5942 reads in 2.11 seconds
+Process 7/8: Time to analyze 5812 reads with 1 threads: 2.12 seconds
+Process 0/8: Time to analyze 5942 reads with 1 threads: 2.12 seconds
+Process 6/8: Time to analyze 4702 reads with 1 threads: 2.12 seconds
+Process 1/8: finished the clustering of 5331 reads in 2.12 seconds
+Process 4/8: finished the clustering of 5128 reads in 2.13 seconds
+Process 3/8: finished the clustering of 6747 reads in 2.13 seconds
+Process 5/8: finished the clustering of 69527 reads in 2.13 seconds
+Process 1/8: Time to analyze 5331 reads with 1 threads: 2.13 seconds
+Process 4/8: Time to analyze 5128 reads with 1 threads: 2.13 seconds
+Process 3/8: Time to analyze 6747 reads with 1 threads: 2.14 seconds
+Process 2/8: 1000000 clustered reads in 2.27 seconds
+Process 2/8: finished the clustering of 1235449 reads in 2.78 seconds
+Process 5/8: Time to analyze 69527 reads with 1 threads: 4.08 seconds
+Process 2/8: Time to analyze 1235449 reads with 1 threads: 2484.52 seconds
+SUMMARY: Non duplicated paired reads 272897/1338638 (20.39 %)
+SUMMARY: Min/Max analyzed reads per process: 4702/1235449 (99.62 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.12/2484.52 (99.91 % of imbalance)
+Process 0/8: Overall time: 2494.87 seconds
+Process 1/8: Overall time: 2494.87 seconds
+Process 2/8: Overall time: 2494.87 seconds
+Process 3/8: Overall time: 2494.87 seconds
+Process 4/8: Overall time: 2494.87 seconds
+Process 5/8: Overall time: 2494.87 seconds
+Process 6/8: Overall time: 2494.87 seconds
+Process 7/8: Overall time: 2494.87 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq 
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543969.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 4/8: finished the clustering of 5128 reads in 2.07 seconds
+Process 7/8: finished the clustering of 5812 reads in 2.08 seconds
+Process 1/8: finished the clustering of 5331 reads in 2.08 seconds
+Process 0/8: finished the clustering of 5942 reads in 2.08 seconds
+Process 4/8: Time to analyze 5128 reads with 1 threads: 2.08 seconds
+Process 7/8: Time to analyze 5812 reads with 1 threads: 2.09 seconds
+Process 0/8: Time to analyze 5942 reads with 1 threads: 2.09 seconds
+Process 1/8: Time to analyze 5331 reads with 1 threads: 2.09 seconds
+Process 3/8: finished the clustering of 6747 reads in 2.09 seconds
+Process 3/8: Time to analyze 6747 reads with 1 threads: 2.10 seconds
+Process 6/8: finished the clustering of 4702 reads in 2.11 seconds
+Process 6/8: Time to analyze 4702 reads with 1 threads: 2.12 seconds
+Process 5/8: finished the clustering of 69527 reads in 2.15 seconds
+Process 2/8: 1000000 clustered reads in 2.25 seconds
+Process 2/8: finished the clustering of 1235449 reads in 2.77 seconds
+Process 5/8: Time to analyze 69527 reads with 1 threads: 3.94 seconds
+Process 2/8: Time to analyze 1235449 reads with 1 threads: 1816.64 seconds
+Process 2/8: Overall time: 1825.23 seconds
+Process 3/8: Overall time: 1825.23 seconds
+Process 4/8: Overall time: 1825.23 seconds
+Process 5/8: Overall time: 1825.23 seconds
+Process 6/8: Overall time: 1825.23 seconds
+Process 7/8: Overall time: 1825.23 seconds
+SUMMARY: Non duplicated paired reads 232328/1338638 (17.36 %)
+SUMMARY: Min/Max analyzed reads per process: 4702/1235449 (99.62 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.08/1816.64 (99.89 % of imbalance)
+Process 1/8: Overall time: 1825.23 seconds
+Process 0/8: Overall time: 1825.23 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543969.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543969.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 4702 reads in 2.10 seconds
+Process 0/8: finished the clustering of 5942 reads in 2.11 seconds
+Process 6/8: Time to analyze 4702 reads with 1 threads: 2.11 seconds
+Process 3/8: finished the clustering of 6747 reads in 2.12 seconds
+Process 0/8: Time to analyze 5942 reads with 1 threads: 2.12 seconds
+Process 4/8: finished the clustering of 5128 reads in 2.12 seconds
+Process 4/8: Time to analyze 5128 reads with 1 threads: 2.13 seconds
+Process 3/8: Time to analyze 6747 reads with 1 threads: 2.13 seconds
+Process 7/8: finished the clustering of 5812 reads in 2.13 seconds
+Process 1/8: finished the clustering of 5331 reads in 2.13 seconds
+Process 5/8: finished the clustering of 69527 reads in 2.14 seconds
+Process 7/8: Time to analyze 5812 reads with 1 threads: 2.14 seconds
+Process 1/8: Time to analyze 5331 reads with 1 threads: 2.15 seconds
+Process 2/8: 1000000 clustered reads in 2.28 seconds
+Process 2/8: finished the clustering of 1235449 reads in 2.80 seconds
+Process 5/8: Time to analyze 69527 reads with 1 threads: 3.93 seconds
+Process 2/8: Time to analyze 1235449 reads with 1 threads: 1852.41 seconds
+SUMMARY: Non duplicated paired reads 209753/1338638 (15.67 %)
+SUMMARY: Min/Max analyzed reads per process: 4702/1235449 (99.62 % of imbalance)
+SUMMARY: Min/Max runtime per process: 2.11/1852.41 (99.89 % of imbalance)
+Process 0/8: Overall time: 1854.15 seconds
+Process 1/8: Overall time: 1854.15 seconds
+Process 2/8: Overall time: 1854.15 seconds
+Process 3/8: Overall time: 1854.15 seconds
+Process 4/8: Overall time: 1854.15 seconds
+Process 5/8: Overall time: 1854.15 seconds
+Process 6/8: Overall time: 1854.15 seconds
+Process 7/8: Overall time: 1854.15 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543970.fastq
+FASTQ format identified
+FASTQ format identified
+Process 1/8: finished the clustering of 3022 reads in 1.86 seconds
+Process 1/8: Time to analyze 3022 reads with 1 threads: 1.87 seconds
+Process 4/8: finished the clustering of 7946 reads in 1.89 seconds
+Process 4/8: Time to analyze 7946 reads with 1 threads: 1.90 seconds
+Process 5/8: finished the clustering of 4118 reads in 1.93 seconds
+Process 6/8: finished the clustering of 3504 reads in 1.93 seconds
+Process 0/8: finished the clustering of 7804 reads in 1.93 seconds
+Process 6/8: Time to analyze 3504 reads with 1 threads: 1.93 seconds
+Process 5/8: Time to analyze 4118 reads with 1 threads: 1.93 seconds
+Process 7/8: finished the clustering of 6838 reads in 1.93 seconds
+Process 3/8: finished the clustering of 10160 reads in 1.93 seconds
+Process 0/8: Time to analyze 7804 reads with 1 threads: 1.93 seconds
+Process 7/8: Time to analyze 6838 reads with 1 threads: 1.94 seconds
+Process 3/8: Time to analyze 10160 reads with 1 threads: 1.95 seconds
+Process 2/8: 1000000 clustered reads in 2.07 seconds
+Process 2/8: finished the clustering of 1176274 reads in 2.44 seconds
+Process 2/8: Time to analyze 1176274 reads with 1 threads: 2971.09 seconds
+Process 1/8: Overall time: 2973.74 seconds
+Process 5/8: Overall time: 2973.74 seconds
+Process 3/8: Overall time: 2973.74 seconds
+Process 4/8: Overall time: 2973.74 seconds
+Process 6/8: Overall time: 2973.74 seconds
+Process 7/8: Overall time: 2973.74 seconds
+SUMMARY: Non duplicated paired reads 290058/1219666 (23.78 %)
+SUMMARY: Min/Max analyzed reads per process: 3022/1176274 (99.74 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.87/2971.09 (99.94 % of imbalance)
+Process 2/8: Overall time: 2973.74 seconds
+Process 0/8: Overall time: 2973.74 seconds
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe Process 5/8: Initialized
+Command: ./ParDRe Process 0/8: Initialized
+Command: -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+-i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543970.fastq
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 3504 reads in 1.90 seconds
+Process 6/8: Time to analyze 3504 reads with 1 threads: 1.91 seconds
+Process 4/8: finished the clustering of 7946 reads in 1.91 seconds
+Process 7/8: finished the clustering of 6838 reads in 1.91 seconds
+Process 1/8: finished the clustering of 3022 reads in 1.91 seconds
+Process 0/8: finished the clustering of 7804 reads in 1.91 seconds
+Process 3/8: finished the clustering of 10160 reads in 1.91 seconds
+Process 1/8: Time to analyze 3022 reads with 1 threads: 1.91 seconds
+Process 4/8: Time to analyze 7946 reads with 1 threads: 1.92 seconds
+Process 5/8: finished the clustering of 4118 reads in 1.92 seconds
+Process 0/8: Time to analyze 7804 reads with 1 threads: 1.92 seconds
+Process 7/8: Time to analyze 6838 reads with 1 threads: 1.92 seconds
+Process 5/8: Time to analyze 4118 reads with 1 threads: 1.92 seconds
+Process 3/8: Time to analyze 10160 reads with 1 threads: 1.93 seconds
+Process 2/8: 1000000 clustered reads in 2.07 seconds
+Process 2/8: finished the clustering of 1176274 reads in 2.46 seconds
+Process 2/8: Time to analyze 1176274 reads with 1 threads: 1838.97 seconds
+Process 3/8: Overall time: 1842.87 seconds
+Process 5/8: Overall time: 1842.87 seconds
+Process 4/8: Overall time: 1842.87 seconds
+SUMMARY: Non duplicated paired reads 209248/1219666 (17.16 %)
+SUMMARY: Min/Max analyzed reads per process: 3022/1176274 (99.74 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.91/1838.97 (99.90 % of imbalance)
+Process 0/8: Overall time: 1842.87 seconds
+Process 1/8: Overall time: 1842.87 seconds
+Process 2/8: Overall time: 1842.87 seconds
+Process 6/8: Overall time: 1842.87 seconds
+Process 7/8: Overall time: 1842.87 seconds
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+/projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543970.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 3504 reads in 1.92 seconds
+Process 5/8: finished the clustering of 4118 reads in 1.93 seconds
+Process 0/8: finished the clustering of 7804 reads in 1.93 seconds
+Process 6/8: Time to analyze 3504 reads with 1 threads: 1.93 seconds
+Process 4/8: finished the clustering of 7946 reads in 1.93 seconds
+Process 1/8: finished the clustering of 3022 reads in 1.93 seconds
+Process 5/8: Time to analyze 4118 reads with 1 threads: 1.93 seconds
+Process 1/8: Time to analyze 3022 reads with 1 threads: 1.93 seconds
+Process 0/8: Time to analyze 7804 reads with 1 threads: 1.94 seconds
+Process 4/8: Time to analyze 7946 reads with 1 threads: 1.94 seconds
+Process 7/8: finished the clustering of 6838 reads in 1.96 seconds
+Process 7/8: Time to analyze 6838 reads with 1 threads: 1.97 seconds
+Process 3/8: finished the clustering of 10160 reads in 1.97 seconds
+Process 3/8: Time to analyze 10160 reads with 1 threads: 1.99 seconds
+Process 2/8: 1000000 clustered reads in 2.18 seconds
+Process 2/8: finished the clustering of 1176274 reads in 2.57 seconds
+Process 2/8: Time to analyze 1176274 reads with 1 threads: 1646.97 seconds
+Process 1/8: Overall time: 1650.03 seconds
+Process 3/8: Overall time: 1650.03 seconds
+Process 5/8: Overall time: 1650.03 seconds
+Process 7/8: Overall time: 1650.03 seconds
+SUMMARY: Non duplicated paired reads 179333/1219666 (14.70 %)
+SUMMARY: Min/Max analyzed reads per process: 3022/1176274 (99.74 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.93/1646.97 (99.88 % of imbalance)
+Process 2/8: Overall time: 1650.03 seconds
+Process 4/8: Overall time: 1650.03 seconds
+Process 6/8: Overall time: 1650.03 seconds
+Process 0/8: Overall time: 1650.03 seconds
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543970.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq 
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543970.fastq
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 3504 reads in 1.91 seconds
+Process 3/8: finished the clustering of 10160 reads in 1.91 seconds
+Process 6/8: Time to analyze 3504 reads with 1 threads: 1.91 seconds
+Process 3/8: Time to analyze 10160 reads with 1 threads: 1.93 seconds
+Process 5/8: finished the clustering of 4118 reads in 1.93 seconds
+Process 4/8: finished the clustering of 7946 reads in 1.93 seconds
+Process 5/8: Time to analyze 4118 reads with 1 threads: 1.93 seconds
+Process 4/8: Time to analyze 7946 reads with 1 threads: 1.94 seconds
+Process 1/8: finished the clustering of 3022 reads in 1.95 seconds
+Process 7/8: finished the clustering of 6838 reads in 1.95 seconds
+Process 0/8: finished the clustering of 7804 reads in 1.95 seconds
+Process 1/8: Time to analyze 3022 reads with 1 threads: 1.95 seconds
+Process 7/8: Time to analyze 6838 reads with 1 threads: 1.96 seconds
+Process 0/8: Time to analyze 7804 reads with 1 threads: 1.96 seconds
+Process 2/8: 1000000 clustered reads in 2.19 seconds
+Process 2/8: finished the clustering of 1176274 reads in 2.56 seconds
+Process 2/8: Time to analyze 1176274 reads with 1 threads: 1404.57 seconds
+SUMMARY: Non duplicated paired reads 163441/1219666 (13.40 %)
+SUMMARY: Min/Max analyzed reads per process: 3022/1176274 (99.74 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.91/1404.57 (99.86 % of imbalance)
+Process 0/8: Overall time: 1407.37 seconds
+Process 1/8: Overall time: 1407.37 seconds
+Process 2/8: Overall time: 1407.37 seconds
+Process 3/8: Overall time: 1407.37 seconds
+Process 4/8: Overall time: 1407.37 seconds
+Process 5/8: Overall time: 1407.37 seconds
+Process 6/8: Overall time: 1407.37 seconds
+Process 7/8: Overall time: 1407.37 seconds
+/projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq 
+
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq 
+Process 0/8: Initialized
+Command: Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq 
+
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 0 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis0/SRR1543971.fastq
+FASTQ format identified
+Process 0/8: finished the clustering of 7380 reads in 1.18 seconds
+Process 1/8: finished the clustering of 5284 reads in 1.18 seconds
+Process 4/8: finished the clustering of 4770 reads in 1.18 seconds
+Process 6/8: finished the clustering of 5772 reads in 1.18 seconds
+Process 1/8: Time to analyze 5284 reads with 1 threads: 1.18 seconds
+Process 4/8: Time to analyze 4770 reads with 1 threads: 1.18 seconds
+Process 0/8: Time to analyze 7380 reads with 1 threads: 1.18 seconds
+Process 6/8: Time to analyze 5772 reads with 1 threads: 1.19 seconds
+Process 5/8: finished the clustering of 4136 reads in 1.20 seconds
+Process 7/8: finished the clustering of 3917 reads in 1.20 seconds
+Process 3/8: finished the clustering of 5345 reads in 1.20 seconds
+Process 5/8: Time to analyze 4136 reads with 1 threads: 1.20 seconds
+Process 7/8: Time to analyze 3917 reads with 1 threads: 1.20 seconds
+Process 3/8: Time to analyze 5345 reads with 1 threads: 1.21 seconds
+Process 2/8: finished the clustering of 710120 reads in 1.58 seconds
+Process 2/8: Time to analyze 710120 reads with 1 threads: 687.24 seconds
+Process 3/8: Overall time: 690.65 seconds
+Process 7/8: Overall time: 690.65 seconds
+Process 4/8: Overall time: 690.65 seconds
+Process 5/8: Overall time: 690.65 seconds
+Process 6/8: Overall time: 690.65 seconds
+Process 1/8: Overall time: 690.65 seconds
+Process 2/8: Overall time: 690.65 seconds
+SUMMARY: Non duplicated paired reads 182485/746724 (24.44 %)
+SUMMARY: Min/Max analyzed reads per process: 3917/710120 (99.45 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.18/687.24 (99.83 % of imbalance)
+Process 0/8: Overall time: 690.65 seconds
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+/projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+-i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 1 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis1/SRR1543971.fastq
+Process 7/8: finished the clustering of 3917 reads in 1.17 seconds
+Process 7/8: Time to analyze 3917 reads with 1 threads: 1.17 seconds
+Process 4/8: finished the clustering of 4770 reads in 1.18 seconds
+Process 4/8: Time to analyze 4770 reads with 1 threads: 1.18 seconds
+Process 3/8: finished the clustering of 5345 reads in 1.18 seconds
+Process 3/8: Time to analyze 5345 reads with 1 threads: 1.19 seconds
+Process 1/8: finished the clustering of 5284 reads in 1.19 seconds
+Process 1/8: Time to analyze 5284 reads with 1 threads: 1.20 seconds
+Process 0/8: finished the clustering of 7380 reads in 1.21 seconds
+Process 6/8: finished the clustering of 5772 reads in 1.21 seconds
+Process 6/8: Time to analyze 5772 reads with 1 threads: 1.21 seconds
+Process 0/8: Time to analyze 7380 reads with 1 threads: 1.22 seconds
+Process 5/8: finished the clustering of 4136 reads in 1.22 seconds
+Process 5/8: Time to analyze 4136 reads with 1 threads: 1.22 seconds
+Process 2/8: finished the clustering of 710120 reads in 1.57 seconds
+Process 2/8: Time to analyze 710120 reads with 1 threads: 618.65 seconds
+SUMMARY: Non duplicated paired reads 133523/746724 (17.88 %)
+SUMMARY: Min/Max analyzed reads per process: 3917/710120 (99.45 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.17/618.65 (99.81 % of imbalance)
+Process 0/8: Overall time: 620.84 seconds
+Process 1/8: Overall time: 620.84 seconds
+Process 2/8: Overall time: 620.84 seconds
+Process 3/8: Overall time: 620.84 seconds
+Process 4/8: Overall time: 620.84 seconds
+Process 5/8: Overall time: 620.84 seconds
+Process 6/8: Overall time: 620.84 seconds
+Process 7/8: Overall time: 620.84 seconds
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 2 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis2/SRR1543971.fastq
+Process 4/8: finished the clustering of 4770 reads in 1.18 seconds
+Process 3/8: finished the clustering of 5345 reads in 1.19 seconds
+Process 4/8: Time to analyze 4770 reads with 1 threads: 1.19 seconds
+Process 5/8: finished the clustering of 4136 reads in 1.19 seconds
+Process 1/8: finished the clustering of 5284 reads in 1.19 seconds
+Process 6/8: finished the clustering of 5772 reads in 1.19 seconds
+Process 5/8: Time to analyze 4136 reads with 1 threads: 1.19 seconds
+Process 3/8: Time to analyze 5345 reads with 1 threads: 1.19 seconds
+Process 0/8: finished the clustering of 7380 reads in 1.20 seconds
+Process 1/8: Time to analyze 5284 reads with 1 threads: 1.20 seconds
+Process 6/8: Time to analyze 5772 reads with 1 threads: 1.20 seconds
+Process 7/8: finished the clustering of 3917 reads in 1.21 seconds
+Process 0/8: Time to analyze 7380 reads with 1 threads: 1.21 seconds
+Process 7/8: Time to analyze 3917 reads with 1 threads: 1.21 seconds
+Process 2/8: finished the clustering of 710120 reads in 1.61 seconds
+Process 2/8: Time to analyze 710120 reads with 1 threads: 1098.86 seconds
+Process 3/8: Overall time: 1100.99 seconds
+Process 5/8: Overall time: 1100.99 seconds
+Process 7/8: Overall time: 1100.99 seconds
+SUMMARY: Non duplicated paired reads 116273/746724 (15.57 %)
+SUMMARY: Min/Max analyzed reads per process: 3917/710120 (99.45 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.19/1098.86 (99.89 % of imbalance)
+Process 1/8: Overall time: 1100.99 seconds
+Process 2/8: Overall time: 1100.99 seconds
+Process 4/8: Overall time: 1100.99 seconds
+Process 6/8: Overall time: 1100.99 seconds
+Process 0/8: Overall time: 1100.99 seconds
+Process 5/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 1/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 6/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 4/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 7/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 3/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 0/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+Process 2/8: Initialized
+Command: ./ParDRe -i /projects/BIOinfo/Jappy/review/data/hiv_control/fastp_no_umi/SRR1543971.fastq -m 3 -o /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq 
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+FASTQ format identified
+Process 0/8: To print in /projects/BIOinfo/Jappy/review/result/deduplication/ParDRe/mis3/SRR1543971.fastq
+FASTQ format identified
+FASTQ format identified
+Process 6/8: finished the clustering of 5772 reads in 1.16 seconds
+Process 4/8: finished the clustering of 4770 reads in 1.17 seconds
+Process 6/8: Time to analyze 5772 reads with 1 threads: 1.17 seconds
+Process 7/8: finished the clustering of 3917 reads in 1.17 seconds
+Process 4/8: Time to analyze 4770 reads with 1 threads: 1.17 seconds
+Process 7/8: Time to analyze 3917 reads with 1 threads: 1.17 seconds
+Process 5/8: finished the clustering of 4136 reads in 1.18 seconds
+Process 3/8: finished the clustering of 5345 reads in 1.19 seconds
+Process 5/8: Time to analyze 4136 reads with 1 threads: 1.19 seconds
+Process 3/8: Time to analyze 5345 reads with 1 threads: 1.20 seconds
+Process 1/8: finished the clustering of 5284 reads in 1.20 seconds
+Process 0/8: finished the clustering of 7380 reads in 1.20 seconds
+Process 1/8: Time to analyze 5284 reads with 1 threads: 1.21 seconds
+Process 0/8: Time to analyze 7380 reads with 1 threads: 1.21 seconds
+Process 2/8: finished the clustering of 710120 reads in 1.57 seconds
+Process 2/8: Time to analyze 710120 reads with 1 threads: 628.89 seconds
+Process 3/8: Overall time: 630.61 seconds
+Process 5/8: Overall time: 630.61 seconds
+Process 7/8: Overall time: 630.61 seconds
+SUMMARY: Non duplicated paired reads 107141/746724 (14.35 %)
+SUMMARY: Min/Max analyzed reads per process: 3917/710120 (99.45 % of imbalance)
+SUMMARY: Min/Max runtime per process: 1.17/628.89 (99.81 % of imbalance)
+Process 1/8: Overall time: 630.61 seconds
+Process 2/8: Overall time: 630.61 seconds
+Process 4/8: Overall time: 630.61 seconds
+Process 6/8: Overall time: 630.61 seconds
+Process 0/8: Overall time: 630.61 seconds

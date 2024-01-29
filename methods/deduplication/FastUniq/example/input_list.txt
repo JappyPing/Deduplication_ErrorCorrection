@@ -1,0 +1,4 @@
+input_R1_1.fastq
+input_R1_2.fastq
+input_R2_1.fastq
+input_R2_2.fastq
