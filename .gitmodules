@@ -1,0 +1,6 @@
+[submodule "methods/deduplication/AmpUMI"]
+	path = methods/deduplication/AmpUMI
+	url = https://github.com/pinellolab/AmpUMI
+[submodule "methods/deduplication/BioSeqZip"]
+	path = methods/deduplication/BioSeqZip
+	url = https://github.com/bioinformatics-polito/BioSeqZip

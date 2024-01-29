@@ -1,0 +1,8 @@
+data/
+archive/
+results/de_error_correction/
+results/deduplication/
+results/error_correction/
+methods/deduplication/UMIc
+logs/
+methods/deduplication/
