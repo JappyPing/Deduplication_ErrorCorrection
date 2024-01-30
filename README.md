@@ -61,7 +61,10 @@ conda install bioconda::fastuniq
 ```
 conda install bioconda::bcool
 ```
-Then, run
+Then, run the following scripts
+
+**Notes**: please remember to replace the input directories to your owns before running the following scripts.
+
 ```bash
 python ./src/deduplication.py
 ```
