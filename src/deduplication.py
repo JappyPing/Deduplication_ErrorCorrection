@@ -5,9 +5,9 @@ import pandas as pd
 import os
 
 def single_end_deduplication(output_dir, parallel_num):
-    # all_methods = ["UMI-tools", "AmpUMI", "UMIc", "NGSReadsTreatment", "Nubeam-dedup", "BioSeqZip", "fastp", "pRESTO", "CD-HIT-DUP", "ParDRe","Minirmd"]
+    all_methods = ["UMI-tools", "AmpUMI", "UMIc", "NGSReadsTreatment", "Nubeam-dedup", "BioSeqZip", "fastp", "pRESTO", "CD-HIT-DUP", "ParDRe","Minirmd"]
     # all_methods = ["NGSReadsTreatment", "fastp", "CD-HIT-DUP", "ParDRe","Minirmd"]
-    all_methods = ["BioSeqZip"]
+    # all_methods = ["BioSeqZip"]
 
     umi_methods = ["AmpUMI", "UMI-tools", "UMIc"] # 
     pe_methods = ["Calib", "FastUniq", "Gencore"]

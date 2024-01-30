@@ -308,6 +308,6 @@ def plot_line_chart():
 if __name__ == "__main__":
     input_dir = "/projects/BIOinfo/Jappy/short_read_review/results/error_correction/"
     output_dir = "/projects/BIOinfo/Jappy/short_read_review/results/de_error_correction/new/"
-    # deduplication_after_correction(input_dir, output_dir)
+    deduplication_after_correction(input_dir, output_dir)
     plot_line_chart()
 

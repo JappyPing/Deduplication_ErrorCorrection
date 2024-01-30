@@ -96,7 +96,7 @@ def preprocessing_no_umi(original_f, trimmed_f, out_f):
             # Do something with the ID and description
             id_lst.append(id_str.split(':UMI_')[0])
 
-    print('test')
+    # print('test')
     new_records = []
     # new_fastp_records = []
     for id_n in tqdm(id_lst):
