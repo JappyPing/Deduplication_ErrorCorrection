@@ -1,4 +1,4 @@
-# How error correction affects PCR deduplication: a survey on UMI datasets of short reads
+# How error correction affects PCR deduplication: a survey based on UMI datasets of short reads
 
 This repository contains the scripts, the state-of-the-art methods and datasets (links) used to conduct the analysis for the study "How error correction affects PCR deduplication: a survey based on UMI datasets of short reads".
 
