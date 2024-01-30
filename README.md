@@ -19,10 +19,13 @@ This repository contains the scripts, the state-of-the-art methods and datasets 
 
 ## Reproducing results
 All the experiments were running on the Red Hat Enterprise Linux release 8.6 with the CPU model of Intel(R) Xeon(R) Gold 6238R CPU @ 2.20GHz.
+
+**Notes:** Some PCR-deduplication and error correction methods may yield slightly different deduplication and error correction results by running on different machines or different time.
+
 ### Datasets
 We take 8 UMI-based single-end sequencing datasets of the accession IDs [SRR1543964 - SRR1543971](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP045430&o=acc_s%3Aa) together with a pair-end sequencing dataset of the accession ID [SRR11207257](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR11207257&display=metadata) for the comparative analysis.
 #### Data pre-processing
-For processing datasets SRR1543964 - SRR1543971,
+For processing datasets SRR1543964 - SRR1543971, run the following scripts
 ```bash
 $ python ./src/preprocessing_se.py
 ```
@@ -30,6 +33,7 @@ For processing pair-end datasets SRR11207257,
 ```bash
 $ python ./src/preprocessing_pe.py
 ```
+The pre-processed datasets can be found at [OneDrive](https://studentutsedu-my.sharepoint.com/:f:/g/personal/pengyao_ping_student_uts_edu_au/En7jWkx-gCtGtPCgoKnTVDEBF0Ga95vmezeXstgdygmnbw?e=cfgrof).
 
 ### Comparative Analysis
 Clone this repository first
