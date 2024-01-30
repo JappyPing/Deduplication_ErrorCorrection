@@ -2,7 +2,7 @@
 
 This repository contains the scripts, the state-of-the-art methods and datasets (links) used to conduct the analysis for the study "How error correction affects PCR deduplication: a survey based on UMI datasets of short reads".
 
-**Notes:** This repository contains other researchers' source codes and executable software of PCR-deduplication and error-correction on short reads. The copyright of these source codes and programs belongs to the original authors. If you use all or part of them, please remember to cite these works.
+**Notes:** This repository contains other researchers' source codes and executable software of PCR-deduplication and error-correction on short reads. The copyright of these source codes and programs belongs to the original authors. If you use all or part of them, please remember to cite these works list in [Reference](#reference).
 
 ## Table of Contents
 
@@ -73,6 +73,11 @@ python ./src/deduplication.py
 ```bash
 python ./src/error_correction.py
 ```
+for error correction by bcool, you need to run the separate script 
+```bash
+python ./src/bcool.py
+```
+
 #### Deduplication after Error-Correction
 ```bash
 python ./src/deduplication_after_error_correction.py

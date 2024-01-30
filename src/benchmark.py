@@ -111,8 +111,8 @@ if __name__ == "__main__":
 
     correct_base_dir = "/projects/BIOinfo/Jappy/review/result/correction/"
     
-    # methods = ["bfc", "coral", "musket", "care-cpu", "musket", "fiona", "karect", "lighter", "pollux"]
-    methods = ["karect"]
+    methods = ["bfc", "coral", "musket", "care-cpu", "musket", "fiona", "lighter", "pollux"]
+
     # file_name = "SRR1543964.fastq"
     # file_name = "SRR1543965.fastq"
     # file_name = "SRR1543966.fastq"
