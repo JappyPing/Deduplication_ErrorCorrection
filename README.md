@@ -137,5 +137,5 @@ Antoine Limasset, Jean-François Flot, and Pierre Peterlongo.Toward perfect read
 <!-- ## How to cite -->
 
 ## Contact
-Feel free to contact me (ping.pengyao@gmail.com) if you have any questions, comments, suggestions etc regarding this study.
+Feel free to contact me if you have any questions, comments, suggestions etc regarding this study.
 
